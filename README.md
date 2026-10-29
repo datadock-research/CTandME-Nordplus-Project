@@ -1,7 +1,6 @@
 CTandME Nordplus Project
 -----
 Co-designing Computational Thinking and Mathematics Curriculum Framework for Nordic-Baltic Preservice Teacher Education
------
 This repository provides documents, project materials, and outputs developed within the Nordplus Higher Education project“Co-designing Computational Thinking and Mathematics Curriculum Framework for Nordic-Baltic Preservice Teacher Education.”
 
 **Project information**
